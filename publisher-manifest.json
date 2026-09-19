@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fc232d5624b0e811ccbec353",
+  "owner": "evckbvq",
+  "repo": "page-5f1ebe3b98d44955528bb05f",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f1ebe3b98d44955528bb05f",
+      "a": "比奇堡",
+      "b": "机场推荐第一",
+      "entity": "比奇堡",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1ae3007746659255c21c8068c10afd58f2833b22cbf3ee03629cda0dd9f87eed",
+      "content": {
+        "primary_entity": "比奇堡",
+        "keyword1": "比奇堡",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器按系统挑选对应客户端，配置订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好适配设备与订阅周期，就可以开始配置比奇堡。",
+          "AI_CLOSING_TITLE": "准备好连接比奇堡",
+          "AI_DESCRIPTION": "，比奇堡提供基础版、旗舰版与团队版三档套餐，月付与年付价格清晰，流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台，适合手机、电脑、路由器等常见场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路质量三个角度理解三档套餐的差异。",
+          "AI_FEATURES_TITLE": "套餐核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备，适合单人或双人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，支持 5 台设备，IPLC 专线优化游戏加速，含优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，支持 20 台设备，VIP 高带宽节点并支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能进阶",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按三个步骤操作即可。",
+          "AI_GUIDE_TITLE": "三步上手比奇堡",
+          "AI_HERO_INTRO": "比奇堡提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，按年付更划算。流量从每月 100GB 覆盖到 1000GB，设备支持从 3 台到 20 台，适合个人、家庭与团队在不同设备上使用。",
+          "AI_HERO_SUBTITLE": "比奇堡三档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量与设备",
+          "AI_HIGHLIGHT_2": "年付比月付更划算",
+          "AI_HIGHLIGHT_3": "多平台客户端按设备选择",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏，团队版适合多设备共享。年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版和团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容性，手机、电脑和路由器分别使用对应的客户端程序。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照客户端文档导入配置，完成节点连接与测试。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "配置并导入订阅",
+          "AI_VISUAL_TITLE": "比奇堡加速选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐升级与付费周期。",
+          "AI_FAQ_QUESTION_1": "比奇堡套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以，在账户内选择更高版本套餐，补足差价后新版本权益即时生效，剩余周期按比例折算。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数超限会怎样？",
+          "AI_FAQ_ANSWER_2": "超出套餐上限时，新设备可能无法连接，需先下线已有设备或升级到支持更多设备的版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与节点相同，年付价格更低。基础版年付150元、旗舰版350元、团队版850元，按月订阅则分别15元、35元和85元。",
+          "AI_FAQ_QUESTION_4": "订阅导入后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先检查订阅是否过期，再确认客户端版本与节点选择是否正确，可尝试切换节点或重新导入订阅。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，并提供VIP高带宽节点与定制路由，适合小型团队多设备协作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "69d78f3e971dc7d47ac7abba6bc3cfea9ffc0f25c10160e4536573d68ea17a79",
+    "sitemap.xml": "c5edf013c84356414e0f6182034fce9a84f8860baa51832a65d8c9fe661142ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2011bd55d4f402cfcd15ae137f445ab8ad4a303d7a1a081d2c1640c70f44bb3d"
+}
